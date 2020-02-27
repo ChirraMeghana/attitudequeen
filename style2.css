@@ -152,6 +152,11 @@ h1 span:nth-child(14) {
   }
 }
 
+.aud{
+  position: relative;
+
+}
+
 
 .stage {
     -webkit-transform:scale(1.85);

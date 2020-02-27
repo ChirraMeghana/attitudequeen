@@ -153,12 +153,11 @@ h1 span:nth-child(14) {
 }
 
 .aud{
-  position: relative;
+  position: absolute;
   top:80%;
   left:45%;
 
 }
-
 
 .stage {
     -webkit-transform:scale(1.85);
